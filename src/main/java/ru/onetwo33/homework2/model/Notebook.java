@@ -1,4 +1,4 @@
-package ru.onetwo33.model;
+package ru.onetwo33.homework2.model;
 
 public class Notebook {
 

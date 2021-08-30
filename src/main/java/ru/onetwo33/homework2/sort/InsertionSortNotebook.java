@@ -1,6 +1,6 @@
-package ru.onetwo33.sort;
+package ru.onetwo33.homework2.sort;
 
-import ru.onetwo33.model.Notebook;
+import ru.onetwo33.homework2.model.Notebook;
 
 public class InsertionSortNotebook {
     public static void sort(Notebook[] arr) {

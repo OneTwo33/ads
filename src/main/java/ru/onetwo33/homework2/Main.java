@@ -1,8 +1,8 @@
-package ru.onetwo33;
+package ru.onetwo33.homework2;
 
-import ru.onetwo33.model.Brand;
-import ru.onetwo33.model.Notebook;
-import ru.onetwo33.sort.InsertionSortNotebook;
+import ru.onetwo33.homework2.model.Brand;
+import ru.onetwo33.homework2.model.Notebook;
+import ru.onetwo33.homework2.sort.InsertionSortNotebook;
 
 import java.util.ArrayList;
 import java.util.List;
